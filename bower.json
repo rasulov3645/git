@@ -1,0 +1,17 @@
+{
+  "name": "Loftschool",
+  "authors": [
+    "Gamzat Rasulov <gamzat_bandit3645@mail.ru>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
